@@ -1,4 +1,4 @@
-# Script em python ( JupterNotebook para coletar dados Ações IBOV )
+# Script em python ( JupterNotebook para coletar dados Ações IBOV ) - Código Comentado
 
 > Caso for utilizar o script completamente ou parcialmente referenciar esse github. 
 qualquer dúvida entrar em contato ** duh19rc@gmail.com**
